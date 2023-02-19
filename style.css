@@ -1,0 +1,42 @@
+.image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: inherit;
+  width: 90%;
+  
+}
+h2 {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-family: arial;
+  font-size: 14px
+   
+}
+
+p {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-family: arial;
+  font-size: 9px;
+  color: grey;
+}
+body {
+  background-color: #cce6ff;
+}
+
+div {
+  overflow: hidden;
+  border-radius: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 95px;
+  background-color: white;
+  width: 225px;
+  height: 345px
+  
+}
